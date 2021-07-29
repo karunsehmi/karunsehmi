@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @karunsehmi
+- 👀 I’m am a BSc Computer Science Graduate
+- 🌱 I’m studied at University of Kent, but I am located in London.
+- 📫 You can reach me via email: karunsinghsehmi@gmail.com
